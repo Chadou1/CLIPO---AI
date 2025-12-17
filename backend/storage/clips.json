@@ -1,0 +1,1586 @@
+[
+  {
+    "video_id": 2,
+    "start_time": 2480.86,
+    "end_time": 2501.14,
+    "viral_score": 85,
+    "style": "vertical",
+    "transcript_segment": "Lance-toi dans un business parce que tu aimes bien et parce que tu es capable de persévérer un an de plus. Ne te lance pas dans un business parce que c'est la tendance.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_2_1_score85_1764933286_0.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 85%",
+      "reason": "This clip offers practical and motivational advice on choosing a business path, emphasizing passion and perseverance.",
+      "topic": "Business Strategy",
+      "resolution": "2k",
+      "fps": 60
+    },
+    "id": 1,
+    "created_at": "2025-12-05T11:16:41.875888"
+  },
+  {
+    "video_id": 2,
+    "start_time": 2413.44,
+    "end_time": 2441.36,
+    "viral_score": 80,
+    "style": "vertical",
+    "transcript_segment": "J'aurais dit la même chose à ceux qui sont passés auparavant, ça c'est vraiment devenu mon conseil fétiche en ce moment. C'est lance-toi, mais attends-toi à ce que ça ne marche pas au départ.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_2_2_score80_1764933286_1.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 80%",
+      "reason": "This clip provides valuable and honest advice on entrepreneurship, which can resonate with many viewers.",
+      "topic": "Entrepreneurship Advice",
+      "resolution": "2k",
+      "fps": 60
+    },
+    "id": 2,
+    "created_at": "2025-12-05T11:17:46.076525"
+  },
+  {
+    "video_id": 3,
+    "start_time": 2483.18,
+    "end_time": 2493.48,
+    "viral_score": 88,
+    "style": "vertical",
+    "transcript_segment": "Et tu as vu, moi, après, effectivement, il y a des facilités dans certains business et dans d'autres, mais tous les business marchent. Je connais des millionnaires qui sont millionnaires dans la vidéo, je connais des mecs qui sont millionnaires dans l'e-commerce, je connais des mecs qui sont millionnaires dans le trading, je connais des mecs qui sont millionnaires dans l'agroalimentaire.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_3_4_score88_1764934293_3.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 88%",
+      "reason": "The speaker shares inspiring stories of success in various industries, making it motivational and interesting.",
+      "topic": "Success stories",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 3,
+    "created_at": "2025-12-05T11:36:09.937813"
+  },
+  {
+    "video_id": 3,
+    "start_time": 1362.11,
+    "end_time": 1373.19,
+    "viral_score": 82,
+    "style": "vertical",
+    "transcript_segment": "donc là on a démarré la vidéo donc dans cette vidéo je vous mettrai le lien de sa vidéo et de sa chaîne youtube n'oubliez pas de liker vous abonner moi vous connaissez je donne de la force quand je peux",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_3_5_score82_1764934295_4.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 82%",
+      "reason": "This clip is viral-worthy because it showcases a collaboration between the speaker and another content creator, which can be entertaining and engaging to watch.",
+      "topic": "Social Media and Collaboration",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 4,
+    "created_at": "2025-12-05T11:36:16.983557"
+  },
+  {
+    "video_id": 3,
+    "start_time": 661.37,
+    "end_time": 672.37,
+    "viral_score": 75,
+    "style": "vertical",
+    "transcript_segment": "Tous les chauffeurs de Paname ils me connaissent c'est bon ou pas ? En gros c'est comme ça l'algorithme ?",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_3_6_score75_1764934300_5.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 75%",
+      "reason": "The claim of being recognized by all drivers in Paris could showcase influence or fame.",
+      "topic": "Influence",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 5,
+    "created_at": "2025-12-05T11:36:30.622681"
+  },
+  {
+    "video_id": 3,
+    "start_time": 1142.03,
+    "end_time": 1152.71,
+    "viral_score": 95,
+    "style": "vertical",
+    "transcript_segment": "il doit de l'argent maxime ouais moi il doit 400 milles moins de 500 milles et en gros il nous a une dizaine de personnes il avait arnaqué une dizaine de personnes comme des scrotin d'un un plus l'histoire de film",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_3_1_score95_1764934296_0.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 95%",
+      "reason": "This clip is viral-worthy because it exposes a shocking scam story and the speaker's experience with being deceived, which can be both entertaining and educational to watch.",
+      "topic": "Scams and Deceit",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 6,
+    "created_at": "2025-12-05T11:36:34.897053"
+  },
+  {
+    "video_id": 3,
+    "start_time": 2413.24,
+    "end_time": 2429.82,
+    "viral_score": 95,
+    "style": "vertical",
+    "transcript_segment": "Quel est ton conseil phare pour un étudiant de 20 ans, on va dire, qui veut se lancer dans l'entreprise? J'aurais dit la même chose à ceux qui sont passés auparavant, ça c'est vraiment devenu mon conseil fétiche en ce moment. C'est lance-toi, mais attends-toi à ce que ça ne marche pas au départ.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_3_2_score95_1764934280_1.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 95%",
+      "reason": "The speaker offers valuable advice and insights on entrepreneurship, making it informative and thought-provoking.",
+      "topic": "Entrepreneurship",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 7,
+    "created_at": "2025-12-05T11:36:52.865303"
+  },
+  {
+    "video_id": 3,
+    "start_time": 1298.73,
+    "end_time": 1316.31,
+    "viral_score": 89,
+    "style": "vertical",
+    "transcript_segment": "bah moi c'est marcus j'ai 30 ans où je fais des business j'ai fait du business toute ma vie mais on va dire le business qui me d plus c le e on a investi 650 000 euros on a presque 60 000 membres avec 80 000 euros d en marketing",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_3_3_score89_1764934287_2.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 89%",
+      "reason": "This clip is viral-worthy because it showcases the speaker's business achievements and entrepreneurial spirit, which can be inspiring and motivating to watch.",
+      "topic": "Business and Entrepreneurship",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 8,
+    "created_at": "2025-12-05T11:36:58.631676"
+  },
+  {
+    "video_id": 4,
+    "start_time": 973.7,
+    "end_time": 983.88,
+    "viral_score": 95,
+    "style": "vertical",
+    "transcript_segment": "une meuf Lita elle a fait un launch sur un iPhone en fait et en 3 heures elle a fait 1 million de dollars",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_4_3_score95_1764940756_2.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 95%",
+      "reason": "This clip is viral-worthy because it shares an extraordinary example of someone earning $1 million in just 3 hours, which is a shocking and impressive feat.",
+      "topic": "Exceptional Earning",
+      "resolution": "1080p",
+      "fps": 30
+    },
+    "id": 9,
+    "created_at": "2025-12-05T13:25:42.196538"
+  },
+  {
+    "video_id": 4,
+    "start_time": 3276.43,
+    "end_time": 3286.6,
+    "viral_score": 94,
+    "style": "vertical",
+    "transcript_segment": "David, 1000$ par jour après 3 jours de DM j'ai commencé il y a 2 semaines pile j'ai bien travaillé mes comptes après 3 jours d'acharnement de DM 500 à 1000$ par jour cool 11 000 dollars en 10 jours dans ta formation tu disais qu'on ferait 10K facilement en un mois je les ai fait en 10 jours",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_4_5_score94_1764940765_4.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 94%",
+      "reason": "This clip is viral-worthy because it highlights David's impressive earnings of $11,000 in just 10 days, exceeding the expected $10,000 per month.",
+      "topic": "Success Story",
+      "resolution": "1080p",
+      "fps": 30
+    },
+    "id": 10,
+    "created_at": "2025-12-05T13:26:05.724085"
+  },
+  {
+    "video_id": 4,
+    "start_time": 3256.45,
+    "end_time": 3267.12,
+    "viral_score": 96,
+    "style": "vertical",
+    "transcript_segment": "ça c'est un gars 10 jours après la signature de sa modèle qui faisait déjà 1000$ par jour un cadeau avec ma nouvelle modèle alors qu'elle tournait à 4-5K par mois c'est ce que je lui ai dit en première fois tout à l'heure et là on voit que ça a du sens c'est qu'une modèle qui faisait 4-5K par mois toute seule il a mis en place ce que je lui ai dit 1000$ par jour, merci pour l'information Kéo",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_4_2_score96_1764940764_1.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 96%",
+      "reason": "This clip is viral-worthy because it showcases a student's rapid success in business, generating $1000 per day just 10 days after signing a model.",
+      "topic": "Success Story",
+      "resolution": "1080p",
+      "fps": 30
+    },
+    "id": 11,
+    "created_at": "2025-12-05T13:26:11.954264"
+  },
+  {
+    "video_id": 4,
+    "start_time": 1217.44,
+    "end_time": 1227.88,
+    "viral_score": 95,
+    "style": "vertical",
+    "transcript_segment": "si t'es le genre de personne à avoir peur du regard des autres, grandis, vraiment, t'as une seule vie et tu devrais pas laisser le regard des autres te la dicter",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_4_4_score95_1764940770_3.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 95%",
+      "reason": "This clip is viral-worthy because it delivers a powerful message about overcoming fear and living life on one's own terms.",
+      "topic": "Confidence and Freedom",
+      "resolution": "1080p",
+      "fps": 30
+    },
+    "id": 12,
+    "created_at": "2025-12-05T13:26:22.992529"
+  },
+  {
+    "video_id": 4,
+    "start_time": 3660.66,
+    "end_time": 3672.88,
+    "viral_score": 94,
+    "style": "vertical",
+    "transcript_segment": "parce que c'était le même scénario pour moi pas de blabla, juste des résultats 43K en 30 jours, ça c'est Alvin c'est un mec qui chiffre pas mal dans le groupe 100K par mois, 10 mois après avoir commencé donc voilà ce qui est possible après entre guillemets une longue période",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_4_6_score94_1764940769_5.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 94%",
+      "reason": "This clip is viral-worthy because it discusses long-term success and significant income figures, which can be both impressive and motivating.",
+      "topic": "Long-Term Success",
+      "resolution": "1080p",
+      "fps": 30
+    },
+    "id": 13,
+    "created_at": "2025-12-05T13:26:51.854578"
+  },
+  {
+    "video_id": 4,
+    "start_time": 3013.97,
+    "end_time": 3026.95,
+    "viral_score": 98,
+    "style": "vertical",
+    "transcript_segment": "Mais voilà, c'est les dixièmes que je vous ai montrés tout à l'heure. Et je commence progressivement à gagner de plus en plus d'argent tout en étant en cours.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_4_1_score98_1764940767_0.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 98%",
+      "reason": "The speaker is sharing their financial success while still in school, which could be inspiring or surprising to listeners.",
+      "topic": "Financial Success",
+      "resolution": "1080p",
+      "fps": 30
+    },
+    "id": 14,
+    "created_at": "2025-12-05T13:26:59.787968"
+  },
+  {
+    "video_id": 4,
+    "start_time": 2805.44,
+    "end_time": 2816.46,
+    "viral_score": 92,
+    "style": "vertical",
+    "transcript_segment": "Là, on a une vidéo à 2.9M, 465K, 125, 2M, etc. En fait, il faut comprendre que là, vous voyez peut-être des vues, mais moi je vois de l'argent.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_4_9_score92_1764941195_8.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 92%",
+      "reason": "The speaker is discussing their success on a video platform and how it translates to earnings, which could be surprising or inspiring to listeners.",
+      "topic": "Monetization",
+      "resolution": "1080p",
+      "fps": 30
+    },
+    "id": 15,
+    "created_at": "2025-12-05T13:33:12.034378"
+  },
+  {
+    "video_id": 4,
+    "start_time": 3647.22,
+    "end_time": 3657.28,
+    "viral_score": 92,
+    "style": "vertical",
+    "transcript_segment": "10k la première semaine, 10k first week, mon premier mois en OFM, ça c'est un mec qui a 300$ de 50k net, ça c'est après 3 mois, il a fait 10k de la même façon, 20k en 26 jours, cool, 44K en 30 jours, l'année dernière j'étais encore étudiant, je te comprends",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_4_11_score92_1764941230_10.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 92%",
+      "reason": "This clip is viral-worthy because it shares relatable success stories and income figures, making it more accessible and inspiring to listeners.",
+      "topic": "Relatable Success",
+      "resolution": "1080p",
+      "fps": 30
+    },
+    "id": 16,
+    "created_at": "2025-12-05T13:33:45.219541"
+  },
+  {
+    "video_id": 4,
+    "start_time": 3571.3,
+    "end_time": 3583.54,
+    "viral_score": 92,
+    "style": "vertical",
+    "transcript_segment": "Donc, on a des jours à plus de 1000$. Anthony, GBE ici, 1900$. 1000$ ici, 1200$, 1200$, pareil. Des jours à 2000$. Ici, il y en a un gars qui s'appelle Alex qui a fait un jour à 2K.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_4_10_score92_1764941204_9.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 92%",
+      "reason": "This clip is viral-worthy because it shares specific and impressive income figures, which can be both surprising and encouraging.",
+      "topic": "Income Disclosure",
+      "resolution": "1080p",
+      "fps": 30
+    },
+    "id": 17,
+    "created_at": "2025-12-05T13:33:55.067923"
+  },
+  {
+    "video_id": 4,
+    "start_time": 2490.96,
+    "end_time": 2502.02,
+    "viral_score": 92,
+    "style": "vertical",
+    "transcript_segment": "Eden a atteint ses premiers jours à plus de 1000$ en moins de 3 semaines. Petite journée à 1200$. Anthony a commencé, signé sa première modèle en 2 semaines et 6 jours après faisait déjà 1000$ par jour.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_4_8_score92_1764941207_7.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 92%",
+      "reason": "This clip showcases rapid financial success stories of individuals achieving significant earnings in a short period, making it highly motivating.",
+      "topic": "Rapid Financial Success",
+      "resolution": "1080p",
+      "fps": 30
+    },
+    "id": 18,
+    "created_at": "2025-12-05T13:34:01.553789"
+  },
+  {
+    "video_id": 4,
+    "start_time": 3382.42,
+    "end_time": 3394.08,
+    "viral_score": 91,
+    "style": "vertical",
+    "transcript_segment": "lâchez pas les gars le travail paye toujours j'annonce le prochain mois à 15k journée hier, aujourd'hui, cette semaine, ce mois là il est à 5 pour 5k c'est cool et 12 jours plus tard, voici les résultats de la modèle signée le 11 donc il fait une update, il le poste dans le groupe prochain mois 15k minimum",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_4_12_score91_1764941257_11.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 91%",
+      "reason": "This clip is viral-worthy because it provides a motivational update on the speaker's business progress and encourages the audience to persevere.",
+      "topic": "Motivational Update",
+      "resolution": "1080p",
+      "fps": 30
+    },
+    "id": 19,
+    "created_at": "2025-12-05T13:34:17.164183"
+  },
+  {
+    "video_id": 4,
+    "start_time": 3625.2,
+    "end_time": 3639.76,
+    "viral_score": 93,
+    "style": "vertical",
+    "transcript_segment": "par mois, ici aujourd'hui 53k en 30 jours, ne jamais abandonner, bla bla bla. Premier mois à 10k, pour un autre mec du groupe, 47k par mois ici, 3 mois que je suis dans l'OFM, 47k, 57k début de mois, donc 57k généré, on vient juste de commencer le mois.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_4_7_score93_1764941193_6.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 93%",
+      "reason": "This clip is viral-worthy because it provides specific examples of significant income generated, which can be both impressive and inspiring.",
+      "topic": "Income Examples",
+      "resolution": "1080p",
+      "fps": 30
+    },
+    "id": 20,
+    "created_at": "2025-12-05T13:34:19.845021"
+  },
+  {
+    "video_id": 6,
+    "start_time": 1953.92,
+    "end_time": 1969.32,
+    "viral_score": 80,
+    "style": "vertical",
+    "transcript_segment": "Qu'est-ce que c'est que cette merde ? Fais très attention à ce que tu dis. Là, il y a du poulet qui sort. Comment t'as pu croire que c'était du poulet alors que c'était du...",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_6_3_score80_1764947599_2.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 80%",
+      "reason": "The speaker's reaction to mistaken food identity creates humor and surprise.",
+      "topic": "Food Confusion",
+      "resolution": "2k",
+      "fps": 60
+    },
+    "id": 21,
+    "created_at": "2025-12-05T15:30:05.403733"
+  },
+  {
+    "video_id": 6,
+    "start_time": 2080.52,
+    "end_time": 2096.34,
+    "viral_score": 85,
+    "style": "vertical",
+    "transcript_segment": "Sibling or dating. Quatre duos vont venir tour à tour dans la White Room. À vous de deviner s'ils sont en couple ou frères et sœurs.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_6_1_score85_1764947600_0.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 85%",
+      "reason": "The introduction of a guessing game about relationships sparks curiosity and engagement.",
+      "topic": "Relationship Guessing Game",
+      "resolution": "2k",
+      "fps": 60
+    },
+    "id": 22,
+    "created_at": "2025-12-05T15:30:15.678008"
+  },
+  {
+    "video_id": 6,
+    "start_time": 2154.22,
+    "end_time": 2169.7,
+    "viral_score": 80,
+    "style": "vertical",
+    "transcript_segment": "Franchement, son principal défaut, c'est qu'elle est grave bordélique dans la salle de bain et tout. T'es là, t'es dans ta chambre, tu demandes rien, les gens rentrent comme ça.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_6_5_score80_1764947599_4.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 80%",
+      "reason": "The speaker discusses flaws in a relationship, creating a relatable and honest moment.",
+      "topic": "Relationship Flaws",
+      "resolution": "2k",
+      "fps": 60
+    },
+    "id": 23,
+    "created_at": "2025-12-05T15:30:56.303391"
+  },
+  {
+    "video_id": 6,
+    "start_time": 2281.92,
+    "end_time": 2299.6,
+    "viral_score": 80,
+    "style": "vertical",
+    "transcript_segment": "Je dirais vraiment un dépravé canette en main, tout bleu. 15 minutes en moins voil Arr arr arr arr Arr Du lait Du joyeux nectar vous attend dans la bo Pourquoi du lait",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_6_6_score80_1764947599_5.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 80%",
+      "reason": "The speaker creates a surprising and humorous moment with a unexpected twist.",
+      "topic": "Surprising Twist",
+      "resolution": "2k",
+      "fps": 60
+    },
+    "id": 24,
+    "created_at": "2025-12-05T15:32:32.624907"
+  },
+  {
+    "video_id": 7,
+    "start_time": 1134.78,
+    "end_time": 1145.78,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "Encore un, tu es noir. Mais y a pas de meuf frère, je te jure. En fait y a que des mecs qui disent que t'es noir. Ouais. Tu sais que tu peux pas trouver une meuf. Non vraiment pour de vrai ? Je te jure, c'est super rare. Ça te fait chier ? Non je m'en bats les couilles.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_7_1_score90_1764950100_0.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "This clip discusses racial stereotypes and the challenges of dating, specifically for black men.",
+      "topic": "Racial stereotypes and dating",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 25,
+    "created_at": "2025-12-05T15:55:13.505969"
+  },
+  {
+    "video_id": 7,
+    "start_time": 1090.22,
+    "end_time": 1104.1,
+    "viral_score": 80,
+    "style": "vertical",
+    "transcript_segment": "j'ai une méta où maintenant j'ai full contrôle. 95% de contrôle. tu mets juste ta taille. Tata il y a une photo de toi en lambeau. Tu dis c'est pas une loc. Non ça ça marche pas. Les meufs ils s'en branlent. Je te jure j'ai pas plus de DM.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_7_2_score80_1764950100_1.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 80%",
+      "reason": "The speaker shares their experiences with dating and social media, highlighting the challenges of connecting with others online.",
+      "topic": "Dating and Social Media",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 26,
+    "created_at": "2025-12-05T15:55:15.685291"
+  },
+  {
+    "video_id": 7,
+    "start_time": 1078.28,
+    "end_time": 1088.72,
+    "viral_score": 75,
+    "style": "vertical",
+    "transcript_segment": "mais après le problème c'est que les meufs elles sont toutes différentes donc c'est une galère. quand j'avais 14 ans je me retenais de pisser en plein milieu tu vois pour muscler mon périnée. là j'ai une méta où maintenant j'ai full contrôle.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_7_3_score75_1764950113_2.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 75%",
+      "reason": "The speaker discusses challenges in dating and shares a personal habit for self-improvement, which can resonate with young audiences.",
+      "topic": "Dating and Self-Improvement",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 27,
+    "created_at": "2025-12-05T15:55:23.906156"
+  },
+  {
+    "video_id": 7,
+    "start_time": 1072.28,
+    "end_time": 1082.44,
+    "viral_score": 75,
+    "style": "vertical",
+    "transcript_segment": "bah ouais t'as jamais eu de meuf. tu sais c'est la méta. ça pourrait être vraiment chaud. c'est le meilleur moyen. tu traines sur une mais après le problème c'est que les meufs elles sont toutes différentes donc c'est une galère.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_7_4_score75_1764950116_3.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 75%",
+      "reason": "Discussing dating strategies and the challenges of relationships can be highly relatable and spark conversation.",
+      "topic": "Dating and Relationships",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 28,
+    "created_at": "2025-12-05T15:55:25.676352"
+  },
+  {
+    "video_id": 7,
+    "start_time": 1124.78,
+    "end_time": 1134.78,
+    "viral_score": 70,
+    "style": "vertical",
+    "transcript_segment": "Tu veux voir ton compte Instagram ? Normalement avec un compte comme ça tu te fais DM. Franchement frère, il y a que des gars qui me disent comment t'as fait.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_7_5_score70_1764950124_4.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 70%",
+      "reason": "The speaker reflects on the dynamics of their social media interactions, specifically the lack of female engagement, which can spark discussion on gender dynamics online.",
+      "topic": "Social Media and Gender Dynamics",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 29,
+    "created_at": "2025-12-05T15:55:35.912821"
+  },
+  {
+    "video_id": 7,
+    "start_time": 1191.86,
+    "end_time": 1202.46,
+    "viral_score": 70,
+    "style": "vertical",
+    "transcript_segment": "Bah tu peux pas... Tu peux pas faire x10 sans échanger ton temps en x10. J'avais fait pas mal de dropshipping. Ah t'as fait du drop ? Ouais. Ah mais non, resell de sneakers, ça fait genre 3 ans.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_7_6_score70_1764950126_5.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 70%",
+      "reason": "The speaker shares their experiences with business strategies like dropshipping and reselling sneakers, which can provide valuable insights for entrepreneurs.",
+      "topic": "Business Strategies and Experiences",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 30,
+    "created_at": "2025-12-05T15:55:38.156195"
+  },
+  {
+    "video_id": 7,
+    "start_time": 1059.72,
+    "end_time": 1071.36,
+    "viral_score": 65,
+    "style": "vertical",
+    "transcript_segment": "moi j'ai juste testé parce que pourquoi pas tu vois c'est tellement insolent mais t'imagines du coup tu te dis mais sérieux il se passe quoi tu deviens influenceur fitness. par contre le squat tu te rattrape pas tu parles pas d'Héraclée genre non.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_7_7_score65_1764950136_6.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 65%",
+      "reason": "The speaker reflects on the potential influence of fitness achievements on one's life and career, which can spark interest and debate.",
+      "topic": "Influence and Fitness",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 31,
+    "created_at": "2025-12-05T15:55:46.988920"
+  },
+  {
+    "video_id": 7,
+    "start_time": 1022.18,
+    "end_time": 1033.24,
+    "viral_score": 60,
+    "style": "vertical",
+    "transcript_segment": "Ouais. Il tape des gens un peu plus. Sinon non. Tu sais j'ai pas Génétique africain. Noir 100% tu vois. Ouais mais t'as les mêmes insertions. Les épaules rondes. J'ai remarqué. Les renois ils ont toujours les épaules rondes. Des muscles bien ronds. Ouais ouais c'est vrai.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_7_8_score60_1764950138_7.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 60%",
+      "reason": "The conversation touches on perceived physical differences between races, which can be a sensitive and controversial topic.",
+      "topic": "Physical Characteristics",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 32,
+    "created_at": "2025-12-05T15:55:48.796935"
+  },
+  {
+    "video_id": 7,
+    "start_time": 1180.66,
+    "end_time": 1191.86,
+    "viral_score": 55,
+    "style": "vertical",
+    "transcript_segment": "c'était la deb. Ah mais gros, j'ai fait tous les trucs possibles. Ouais mais c'est pas ce qu'il y a là, pareil. Ouais, un peu toi, c'est ton temps. Tu passes... T'as gagné 50 balles. C'est une blague, c'est une blague.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_7_9_score55_1764950147_8.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 55%",
+      "reason": "The speaker discusses the challenges and realities of entrepreneurship, including the time and effort required for small gains.",
+      "topic": "Entrepreneurial Challenges",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 33,
+    "created_at": "2025-12-05T15:55:59.332564"
+  },
+  {
+    "video_id": 7,
+    "start_time": 1171.88,
+    "end_time": 1185.46,
+    "viral_score": 55,
+    "style": "vertical",
+    "transcript_segment": "je te jure. c'est la deb poto. c'était la deb. Ah mais gros, j'ai fait tous les trucs possibles. Ouais mais c'est pas ce qu'il y a là, pareil. Ouais, un peu toi, c'est ton temps. Tu passes... T'as gagné 50 balles.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_7_10_score55_1764950149_9.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 55%",
+      "reason": "Discussing the challenges and realities of entrepreneurship can provide valuable insights.",
+      "topic": "Entrepreneurial Challenges",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 34,
+    "created_at": "2025-12-05T15:56:02.966076"
+  },
+  {
+    "video_id": 7,
+    "start_time": 1160.62,
+    "end_time": 1171.88,
+    "viral_score": 50,
+    "style": "vertical",
+    "transcript_segment": "qu'est-ce que j'ai fait un truc de hustler. genre il y a pas si longtemps j'avais regardé dans ma pellicule. c'était en 2021 je crois. en gros disons qu'il y avait une annonce de chaise sur facebook marketplace.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_7_11_score50_1764950159_10.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 50%",
+      "reason": "The speaker shares their experience with entrepreneurship and hustling, specifically an example of reselling items online.",
+      "topic": "Entrepreneurship and Hustling",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 35,
+    "created_at": "2025-12-05T15:56:15.288467"
+  },
+  {
+    "video_id": 8,
+    "start_time": 674.52,
+    "end_time": 689.31,
+    "viral_score": 60,
+    "style": "vertical",
+    "transcript_segment": "Ce qui fait qu a d stopper les ventes en plein milieu du Black Friday m si c pr on a d encore plus vite",
+    "output_path": "D:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_8_1_score60_1765277649_0.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 60%",
+      "reason": "The discussion on Black Friday sales strategies and challenges can be valuable to viewers who are into e-commerce.",
+      "topic": "Black Friday Strategy",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 36,
+    "created_at": "2025-12-09T10:57:26.142833"
+  },
+  {
+    "video_id": 9,
+    "start_time": 202.54,
+    "end_time": 213.28,
+    "viral_score": 85,
+    "style": "vertical",
+    "transcript_segment": "Mais aujourd'hui je suis dans une situation ultra privil ultra confortable entre guillemets o j du cash flow je suis en mesure d les actifs pour prendre soin de mon futur",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_9_1_score85_1765283598_0.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 85%",
+      "reason": "The discussion of financial privilege and responsibility can spark debate about wealth and opportunity.",
+      "topic": "Financial Freedom and Privilege",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 37,
+    "created_at": "2025-12-09T12:35:39.468950"
+  },
+  {
+    "video_id": 10,
+    "start_time": 663.62,
+    "end_time": 674.9,
+    "viral_score": 60,
+    "style": "vertical",
+    "transcript_segment": "on est à la montagne on est arrivé les amis courchevel 18 5 0 18 150 qui fait pas trop",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_10_2_score60_1765284260_1.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 60%",
+      "reason": "Arriving at a ski destination can create excitement about upcoming adventures.",
+      "topic": "Skiing Adventure",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 38,
+    "created_at": "2025-12-09T12:45:32.778529"
+  },
+  {
+    "video_id": 10,
+    "start_time": 711.76,
+    "end_time": 724.78,
+    "viral_score": 70,
+    "style": "vertical",
+    "transcript_segment": "incroyable je vous fais un mini tour du propriétaire donc la petit hall d'entrée petite peau de vache miroir là on a une pièce",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_10_1_score70_1765284258_0.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 70%",
+      "reason": "Giving a tour of a luxurious home can fascinate viewers with the lifestyle.",
+      "topic": "Luxury Home Tour",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 39,
+    "created_at": "2025-12-09T12:45:36.964196"
+  },
+  {
+    "video_id": 10,
+    "start_time": 1503.17,
+    "end_time": 1518.07,
+    "viral_score": 55,
+    "style": "vertical",
+    "transcript_segment": "Oui alors le driver vient me demander parce que c la premi fois qu fait",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_10_3_score55_1765284338_2.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 55%",
+      "reason": "A humorous anecdote about a travel experience is relatable.",
+      "topic": "Travel",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 40,
+    "created_at": "2025-12-09T12:47:12.458474"
+  },
+  {
+    "video_id": 11,
+    "start_time": 987.3299999999999,
+    "end_time": 997.3299999999999,
+    "viral_score": 85,
+    "style": "vertical",
+    "transcript_segment": "It's crazy, when I see the price of gas, when I see before, man, you paid 80 euros, you had your basket full, today you pay 80, you feel like you have nothing to buy.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_11_2_score85_1765286662_1.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 85%",
+      "reason": "The speaker's commentary on economic issues, such as inflation and purchasing power, highlights their awareness of real-world problems and sparks empathy.",
+      "topic": "Economic Commentary",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 41,
+    "created_at": "2025-12-09T13:24:56.307284"
+  },
+  {
+    "video_id": 11,
+    "start_time": 1006.77,
+    "end_time": 1016.77,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "And we are no longer united as before. In 1789, there was not all this shit. We revolted and then we managed to do something.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_11_1_score90_1765286662_0.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "The speaker's historical reference and commentary on social unity sparks thought-provoking discussions and encourages viewers to reflect on their values.",
+      "topic": "Social Commentary",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 42,
+    "created_at": "2025-12-09T13:24:56.473168"
+  },
+  {
+    "video_id": 11,
+    "start_time": 965.88,
+    "end_time": 975.88,
+    "viral_score": 80,
+    "style": "vertical",
+    "transcript_segment": "You're pissed off? Because it's September 10th and you're going to go and break everything in Paris?",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_11_3_score80_1765286696_2.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 80%",
+      "reason": "The speaker's commentary on social issues, such as frustration and protest, sparks thought-provoking discussions and resonates with viewers.",
+      "topic": "Social Commentary",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 43,
+    "created_at": "2025-12-09T13:25:29.767961"
+  },
+  {
+    "video_id": 11,
+    "start_time": 1469.725,
+    "end_time": 1479.725,
+    "viral_score": 75,
+    "style": "vertical",
+    "transcript_segment": "Le garage de place, il ne sert même pas à deux voitures, c'est la honte. Utilise ton argent. L'argent, c'est l'énergie et le temps des gens.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_11_4_score75_1765286696_3.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 75%",
+      "reason": "The speaker shares a strong opinion about car ownership and garage space, which could resonate with viewers.",
+      "topic": "Car Garage",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 44,
+    "created_at": "2025-12-09T13:25:30.009886"
+  },
+  {
+    "video_id": 11,
+    "start_time": 441.77,
+    "end_time": 451.77,
+    "viral_score": 70,
+    "style": "vertical",
+    "transcript_segment": "c'est que la saturation en général, le fameux c'est trop tard, c'est compliqué, ça marchait il y a deux ans.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_11_5_score70_1765286730_4.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 70%",
+      "reason": "The speaker discusses market trends and the concept of saturation.",
+      "topic": "Market Trends",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 45,
+    "created_at": "2025-12-09T13:26:04.304334"
+  },
+  {
+    "video_id": 11,
+    "start_time": 1378.86,
+    "end_time": 1389.7,
+    "viral_score": 70,
+    "style": "vertical",
+    "transcript_segment": "Je pense que je dois avoir une tête de fou quand je conduis. Mais en fait, je suis juste concentré.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_11_6_score70_1765286730_5.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 70%",
+      "reason": "A relatable moment of introspection on the driver's mindset while driving.",
+      "topic": "Driving Experience",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 46,
+    "created_at": "2025-12-09T13:26:07.263100"
+  },
+  {
+    "video_id": 11,
+    "start_time": 1497.8,
+    "end_time": 1507.8,
+    "viral_score": 70,
+    "style": "vertical",
+    "transcript_segment": "Le mec qui installe mon exos de gintami vient de dire que ma voiture serait prête aujourd'hui et que le tuning, ce qui fait le bruit du vieux de la voiture, encore une fois on est pas des cargailles, on sait pas trop, mais ça doit être fait avec Alex, le mec de gintami.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_11_7_score70_1765286764_6.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 70%",
+      "reason": "The speaker shares an update on their car's tuning process, using colloquial language that could spark interest.",
+      "topic": "Car Tuning",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 47,
+    "created_at": "2025-12-09T13:26:36.782444"
+  },
+  {
+    "video_id": 11,
+    "start_time": 89.75,
+    "end_time": 99.75,
+    "viral_score": 65,
+    "style": "vertical",
+    "transcript_segment": "Mais gros j'ai rien fait, J'ai la même réaction qu'au début en fait, Ça fait du bruit, tu comprends pas pourquoi.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_11_8_score65_1765286767_7.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 65%",
+      "reason": "The speaker shares their genuine reaction to their situation, showcasing authenticity and potentially resonating with viewers.",
+      "topic": "Authenticity",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 48,
+    "created_at": "2025-12-09T13:26:39.684935"
+  },
+  {
+    "video_id": 11,
+    "start_time": 450.49,
+    "end_time": 460.49,
+    "viral_score": 65,
+    "style": "vertical",
+    "transcript_segment": "Kéo t'as eu de l'avance, t'as eu de la chance, c'est pas un truc qui est réel.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_11_9_score65_1765286797_8.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 65%",
+      "reason": "The speaker discusses the role of luck and timing in success.",
+      "topic": "Success and Luck",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 49,
+    "created_at": "2025-12-09T13:27:12.644077"
+  },
+  {
+    "video_id": 11,
+    "start_time": 1390.47,
+    "end_time": 1400.47,
+    "viral_score": 65,
+    "style": "vertical",
+    "transcript_segment": "Parce que quand tu déplaces littéralement un peu de l'air sur le sol, enfin, essayez chez vous. Prenez votre réservier, allez conduire.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_11_11_score65_1765286833_10.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 65%",
+      "reason": "The speaker offers a thought-provoking driving tip, encouraging viewers to try it themselves.",
+      "topic": "Driving Tips",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 50,
+    "created_at": "2025-12-09T13:27:46.499509"
+  },
+  {
+    "video_id": 11,
+    "start_time": 0.0,
+    "end_time": 23.58,
+    "viral_score": 65,
+    "style": "vertical",
+    "transcript_segment": "La saturation en général, le fameux c'est trop tard, c'est pas un truc qui est réel.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_11_10_score65_1765286799_9.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 65%",
+      "reason": "The speaker introduces the concept of saturation and its implications.",
+      "topic": "Market Trends",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 51,
+    "created_at": "2025-12-09T13:27:58.031887"
+  },
+  {
+    "video_id": 11,
+    "start_time": 1486.145,
+    "end_time": 1496.145,
+    "viral_score": 65,
+    "style": "vertical",
+    "transcript_segment": "Déjà, il n'arrive pas à me dire. Je ne sais pas, moi, il m'a dit 11h ou midi, l'autre. Hier, pour demain, il est 17h.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_11_12_score65_1765286866_11.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 65%",
+      "reason": "The speaker shares a frustrating experience with scheduling, which many people can relate to.",
+      "topic": "Scheduling Issues",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 52,
+    "created_at": "2025-12-09T13:28:31.284836"
+  },
+  {
+    "video_id": 12,
+    "start_time": 82.9,
+    "end_time": 98.7,
+    "viral_score": 92,
+    "style": "vertical",
+    "transcript_segment": "The future belongs to those who are adaptable.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_12_1_score92_1765480297_0.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 92%",
+      "reason": "Emphasizing adaptability as a key skill for the future could motivate viewers to upskill or reskill, resonating with those concerned about staying relevant in the job market.",
+      "topic": "Adaptability",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 53,
+    "created_at": "2025-12-11T19:11:55.643293"
+  },
+  {
+    "video_id": 12,
+    "start_time": 501.8,
+    "end_time": 517.5,
+    "viral_score": 92,
+    "style": "vertical",
+    "transcript_segment": "Most people are living someone else's dream, not their own",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_12_2_score92_1765480297_1.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 92%",
+      "reason": "This statement is emotionally powerful, encouraging viewers to reflect on their own values and aspirations.",
+      "topic": "Authenticity and Identity",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 54,
+    "created_at": "2025-12-11T19:11:55.803815"
+  },
+  {
+    "video_id": 12,
+    "start_time": 0.0,
+    "end_time": 15.6,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "The way we think about work is broken.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_12_4_score90_1765480316_3.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "The speaker challenges the traditional notion of work, sparking curiosity and potentially resonating with many viewers who feel dissatisfied with their current work arrangements.",
+      "topic": "Future of Work",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 55,
+    "created_at": "2025-12-11T19:12:12.610908"
+  },
+  {
+    "video_id": 12,
+    "start_time": 392.6,
+    "end_time": 408.4,
+    "viral_score": 91,
+    "style": "vertical",
+    "transcript_segment": "Diversity and inclusion are essential for innovation.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_12_3_score91_1765480316_2.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 91%",
+      "reason": "The assertion that diversity and inclusion drive innovation could galvanize efforts to create more inclusive workplaces, promoting both social impact and business success.",
+      "topic": "Diversity and Inclusion",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 56,
+    "created_at": "2025-12-11T19:12:13.014267"
+  },
+  {
+    "video_id": 12,
+    "start_time": 262.2,
+    "end_time": 278.0,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "The future of work is not just about technology; it's about humanity.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_12_5_score90_1765480333_4.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "This statement positions humanity at the center of future work discussions, potentially inspiring a viral movement towards more humane workplaces and practices.",
+      "topic": "Human-Centric Work",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 57,
+    "created_at": "2025-12-11T19:12:30.476512"
+  },
+  {
+    "video_id": 12,
+    "start_time": 449.0,
+    "end_time": 464.7,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "People are not motivated by money, they are motivated by purpose",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_12_6_score90_1765480333_5.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "This statement is both relatable and thought-provoking, making viewers question their own assumptions about motivation and purpose.",
+      "topic": "Motivation and Purpose",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 58,
+    "created_at": "2025-12-11T19:12:31.057541"
+  },
+  {
+    "video_id": 12,
+    "start_time": 633.8,
+    "end_time": 649.5,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "The pursuit of happiness is often a recipe for disappointment",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_12_7_score90_1765480350_6.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "This clip challenges the conventional wisdom about happiness, sparking debate about the nature of well-being and fulfillment.",
+      "topic": "Happiness and Well-being",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 59,
+    "created_at": "2025-12-11T19:12:47.923412"
+  },
+  {
+    "video_id": 12,
+    "start_time": 713.0,
+    "end_time": 728.7,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "Most people are not living in the present, they are stuck in the past or future",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_12_8_score90_1765480351_7.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "This statement is both thought-provoking and emotionally powerful, encouraging viewers to reflect on their own relationship with time and presence.",
+      "topic": "Mindfulness and Presence",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 60,
+    "created_at": "2025-12-11T19:12:48.368263"
+  },
+  {
+    "video_id": 12,
+    "start_time": 115.4,
+    "end_time": 131.2,
+    "viral_score": 89,
+    "style": "vertical",
+    "transcript_segment": "Lifelong learning is no longer optional; it's necessary.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_12_9_score89_1765480368_8.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 89%",
+      "reason": "The emphasis on continuous education may prompt viewers to seek out new learning opportunities, making the statement both impactful and shareable.",
+      "topic": "Lifelong Learning",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 61,
+    "created_at": "2025-12-11T19:13:05.099593"
+  },
+  {
+    "video_id": 12,
+    "start_time": 294.8,
+    "end_time": 310.6,
+    "viral_score": 89,
+    "style": "vertical",
+    "transcript_segment": "There's a growing demand for ethical business practices.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_12_10_score89_1765480368_9.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 89%",
+      "reason": "The mention of increasing demand for ethical practices may motivate businesses to adopt more sustainable and responsible operations, aligning with consumer and employee values.",
+      "topic": "Ethical Business",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 62,
+    "created_at": "2025-12-11T19:13:06.396679"
+  },
+  {
+    "video_id": 12,
+    "start_time": 425.2,
+    "end_time": 441.0,
+    "viral_score": 89,
+    "style": "vertical",
+    "transcript_segment": "Embracing failure is part of the learning process.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_12_11_score89_1765480385_10.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 89%",
+      "reason": "The encouragement to embrace failure as a learning opportunity could help shift cultural attitudes towards risk-taking and experimentation in professional settings.",
+      "topic": "Embracing Failure",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 63,
+    "created_at": "2025-12-11T19:13:22.364328"
+  },
+  {
+    "video_id": 12,
+    "start_time": 50.0,
+    "end_time": 65.8,
+    "viral_score": 88,
+    "style": "vertical",
+    "transcript_segment": "We need to rethink what success looks like.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_12_12_score88_1765480386_11.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 88%",
+      "reason": "The call to redefine success could inspire viewers to reflect on their personal and professional goals, encouraging a viral spread of the idea.",
+      "topic": "Redefining Success",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 64,
+    "created_at": "2025-12-11T19:13:24.101284"
+  },
+  {
+    "video_id": 13,
+    "start_time": 481.6,
+    "end_time": 500.2,
+    "viral_score": 96,
+    "style": "vertical",
+    "transcript_segment": "The power of collective action",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_13_1_score96_1765557197_0.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 96%",
+      "reason": "Emphasizing the impact that can be achieved through collective effort inspires and mobilizes people to work together towards common goals.",
+      "topic": "Collective Impact",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 65,
+    "created_at": "2025-12-12T16:37:53.145138"
+  },
+  {
+    "video_id": 13,
+    "start_time": 521.3,
+    "end_time": 540.8,
+    "viral_score": 94,
+    "style": "vertical",
+    "transcript_segment": "Redefining leadership for the future",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_13_2_score94_1765557195_1.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 94%",
+      "reason": "The call for a new model of leadership that prioritizes different qualities and approaches than in the past challenges conventional wisdom and encourages innovation in leadership.",
+      "topic": "Future Leadership",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 66,
+    "created_at": "2025-12-12T16:38:06.969616"
+  },
+  {
+    "video_id": 13,
+    "start_time": 134.2,
+    "end_time": 148.2,
+    "viral_score": 92,
+    "style": "vertical",
+    "transcript_segment": "The pursuit of happiness is a myth.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_13_3_score92_1765557496_2.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 92%",
+      "reason": "This clip makes a provocative statement about the concept of happiness, sparking curiosity and encouraging listeners to think critically about what truly brings fulfillment.",
+      "topic": "Happiness and Fulfillment",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 67,
+    "created_at": "2025-12-12T16:41:52.928811"
+  },
+  {
+    "video_id": 13,
+    "start_time": 221.2,
+    "end_time": 234.7,
+    "viral_score": 91,
+    "style": "vertical",
+    "transcript_segment": "The way we think about failure is wrong.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_13_4_score91_1765557508_3.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 91%",
+      "reason": "This clip challenges traditional notions of failure and encourages listeners to reframe their understanding of mistakes and setbacks as opportunities for growth.",
+      "topic": "Failure and Resilience",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 68,
+    "created_at": "2025-12-12T16:41:55.527114"
+  },
+  {
+    "video_id": 13,
+    "start_time": 412.5,
+    "end_time": 428.1,
+    "viral_score": 91,
+    "style": "vertical",
+    "transcript_segment": "The most valuable things in life are not things, but relationships.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_13_5_score91_1765557734_4.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 91%",
+      "reason": "The speaker prioritizes relationships, encouraging viewers to reevaluate their priorities.",
+      "topic": "Relationships",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 69,
+    "created_at": "2025-12-12T16:46:13.295805"
+  },
+  {
+    "video_id": 13,
+    "start_time": 16.2,
+    "end_time": 31.9,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "People are not just employees, they're human beings.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_13_6_score90_1765557736_5.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "This clip emphasizes the importance of treating employees with respect and dignity, highlighting a crucial aspect of human resources often overlooked.",
+      "topic": "Human Resources",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 70,
+    "created_at": "2025-12-12T16:46:14.616122"
+  },
+  {
+    "video_id": 13,
+    "start_time": 364.7,
+    "end_time": 378.3,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "The most powerful thing we can do is take action.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_13_7_score90_1765557992_6.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "This clip presents a compelling call to action, encouraging listeners to take concrete steps towards creating positive change in the world.",
+      "topic": "Activism and Social Change",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 71,
+    "created_at": "2025-12-12T16:49:24.307446"
+  },
+  {
+    "video_id": 13,
+    "start_time": 396.1,
+    "end_time": 411.8,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "We need to rethink the way we approach work, community, and relationships.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_13_8_score90_1765557987_7.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "The speaker challenges conventional boundaries between work, community, and relationships.",
+      "topic": "Work-Life Integration",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 72,
+    "created_at": "2025-12-12T16:49:36.398385"
+  },
+  {
+    "video_id": 13,
+    "start_time": 445.6,
+    "end_time": 461.2,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "We need to create spaces where people can thrive, not just survive.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_13_9_score90_1765558177_8.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "The speaker emphasizes the importance of creating a positive, supportive work environment.",
+      "topic": "Workplace Culture",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 73,
+    "created_at": "2025-12-12T16:52:48.112544"
+  },
+  {
+    "video_id": 13,
+    "start_time": 501.0,
+    "end_time": 520.5,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "Creating a culture of continuous learning",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_13_10_score90_1765558192_9.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "The advocacy for a culture that values ongoing education and skill development addresses the need for adaptability in a rapidly changing world.",
+      "topic": "Lifelong Learning",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 74,
+    "created_at": "2025-12-12T16:53:19.788191"
+  },
+  {
+    "video_id": 13,
+    "start_time": 178.2,
+    "end_time": 191.7,
+    "viral_score": 89,
+    "style": "vertical",
+    "transcript_segment": "We need to normalize vulnerability.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_13_11_score89_1765558388_10.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 89%",
+      "reason": "This clip presents a compelling argument for embracing vulnerability as a strength, rather than a weakness, and encourages a cultural shift towards empathy and openness.",
+      "topic": "Vulnerability and Empathy",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 75,
+    "created_at": "2025-12-12T16:55:53.720921"
+  },
+  {
+    "video_id": 13,
+    "start_time": 264.2,
+    "end_time": 277.8,
+    "viral_score": 89,
+    "style": "vertical",
+    "transcript_segment": "We need to rethink our relationship with technology.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_13_12_score89_1765558429_11.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 89%",
+      "reason": "This clip presents a thought-provoking perspective on the impact of technology on human relationships and encourages listeners to consider a more balanced approach to tech use.",
+      "topic": "Technology and Society",
+      "resolution": "1080p",
+      "fps": 60
+    },
+    "id": 76,
+    "created_at": "2025-12-12T16:56:26.956306"
+  },
+  {
+    "video_id": 14,
+    "start_time": 124.8,
+    "end_time": 139.5,
+    "viral_score": 92,
+    "style": "vertical",
+    "transcript_segment": "Happiness and fulfillment come from within.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_14_2_score92_1765715766_1.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 92%",
+      "reason": "This clip offers a profound and uplifting message, resonating with viewers seeking inner fulfillment.",
+      "topic": "Personal Growth",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 77,
+    "created_at": "2025-12-14T12:38:49.895543"
+  },
+  {
+    "video_id": 14,
+    "start_time": 446.5,
+    "end_time": 462.4,
+    "viral_score": 99,
+    "style": "vertical",
+    "transcript_segment": "The moment for change is now – and it's ours to seize.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_14_1_score99_1765715765_0.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 99%",
+      "reason": "The call to seize the moment for change is a powerful prompt to action.",
+      "topic": "Urgency and Action",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 78,
+    "created_at": "2025-12-14T12:38:57.890392"
+  },
+  {
+    "video_id": 14,
+    "start_time": 247.2,
+    "end_time": 261.9,
+    "viral_score": 92,
+    "style": "vertical",
+    "transcript_segment": "We need to prioritize well-being and mental health.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_14_3_score92_1765715939_2.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 92%",
+      "reason": "This clip highlights a critical issue affecting many people's lives, making it a viral moment of empathy.",
+      "topic": "Mental Health Awareness",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 79,
+    "created_at": "2025-12-14T12:41:22.057882"
+  },
+  {
+    "video_id": 14,
+    "start_time": 354.3,
+    "end_time": 369.0,
+    "viral_score": 92,
+    "style": "vertical",
+    "transcript_segment": "The future is not just about technology, it's about humanity.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_14_4_score92_1765715952_3.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 92%",
+      "reason": "This statement highlights the need for a human-centered approach to technological advancements.",
+      "topic": "Human-Centered Future",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 80,
+    "created_at": "2025-12-14T12:41:38.212768"
+  },
+  {
+    "video_id": 14,
+    "start_time": 16.2,
+    "end_time": 31.9,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "People are not just looking for a paycheck, they're looking for purpose.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_14_5_score90_1765716096_4.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "This statement highlights a universal human desire, making it relatable and thought-provoking.",
+      "topic": "Meaningful Work",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 81,
+    "created_at": "2025-12-14T12:44:11.680650"
+  },
+  {
+    "video_id": 14,
+    "start_time": 186.0,
+    "end_time": 200.7,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "Emotional intelligence is just as important as IQ.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_14_6_score90_1765716117_5.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "This clip highlights the significance of emotional intelligence, making it a viral moment of recognition.",
+      "topic": "Emotional Intelligence",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 82,
+    "created_at": "2025-12-14T12:44:32.000725"
+  },
+  {
+    "video_id": 14,
+    "start_time": 277.8,
+    "end_time": 292.5,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "We have the power to create a better future.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_14_7_score90_1765716265_6.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "This clip offers a message of hope and agency, inspiring viewers to take action.",
+      "topic": "Empowerment and Hope",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 83,
+    "created_at": "2025-12-14T12:46:46.134730"
+  },
+  {
+    "video_id": 14,
+    "start_time": 339.0,
+    "end_time": 353.7,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "Inclusivity and diversity are not just buzzwords.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_14_8_score90_1765716294_7.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "This clip emphasizes the importance of genuine inclusivity and diversity, making it a viral moment of solidarity.",
+      "topic": "Diversity and Inclusion",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 84,
+    "created_at": "2025-12-14T12:47:23.702472"
+  },
+  {
+    "video_id": 14,
+    "start_time": 430.8,
+    "end_time": 445.5,
+    "viral_score": 90,
+    "style": "vertical",
+    "transcript_segment": "We need to focus on the journey, not just the destination.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_14_9_score90_1765716421_8.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 90%",
+      "reason": "This clip offers a profound and uplifting message, encouraging viewers to appreciate the present moment.",
+      "topic": "Mindfulness and Presence",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 85,
+    "created_at": "2025-12-14T12:49:25.365119"
+  },
+  {
+    "video_id": 14,
+    "start_time": 78.9,
+    "end_time": 93.6,
+    "viral_score": 88,
+    "style": "vertical",
+    "transcript_segment": "People are craving autonomy, flexibility, and creativity.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_14_10_score88_1765716457_9.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 88%",
+      "reason": "This statement highlights key desires driving the modern workforce, making it a viral moment of insight.",
+      "topic": "Future of Work Trends",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 86,
+    "created_at": "2025-12-14T12:50:01.912444"
+  },
+  {
+    "video_id": 14,
+    "start_time": 140.1,
+    "end_time": 154.8,
+    "viral_score": 88,
+    "style": "vertical",
+    "transcript_segment": "The education system is not preparing us for the future.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_14_11_score88_1765716577_10.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 88%",
+      "reason": "This statement sparks concern and curiosity about the effectiveness of current educational approaches.",
+      "topic": "Education Reform",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 87,
+    "created_at": "2025-12-14T12:52:02.086288"
+  },
+  {
+    "video_id": 14,
+    "start_time": 231.9,
+    "end_time": 246.6,
+    "viral_score": 88,
+    "style": "vertical",
+    "transcript_segment": "The future of work is about human-centered design.",
+    "output_path": "d:\\SITES\\clipgenius\\backend\\storage\\clips\\clip_14_12_score88_1765716619_11.mp4",
+    "clip_metadata": {
+      "title": "Viral Clip 88%",
+      "reason": "This statement emphasizes the need for a more human-centered approach to work and technology.",
+      "topic": "Future of Work Trends",
+      "resolution": "720p",
+      "fps": 30
+    },
+    "id": 88,
+    "created_at": "2025-12-14T12:52:32.360784"
+  }
+]

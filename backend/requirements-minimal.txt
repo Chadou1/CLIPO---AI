@@ -1,0 +1,27 @@
+# FastAPI  Core - Essential packages only
+fastapi
+uvicorn[standard]
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+
+# Database
+sqlalchemy
+alembic
+
+# Utils
+pydantic
+pydantic-settings
+requests
+aiohttp
+httpx
+python-slugify
+
+# Email
+resend
+email-validator
+
+# Testing
+pytest
+pytest-asyncio

@@ -1,0 +1,39 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Virtual environments
+venv/
+.venv/
+env/
+backend/venv/
+backend/venv_310/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.sqlite3
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.next/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+backend/storage/uploads/
+data/uploads/
+*.temp.mp4
+ffmpeg/
